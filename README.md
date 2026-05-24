@@ -3,7 +3,7 @@ A dynamic GitHub user search application built with HTML, CSS, and JavaScript. F
 
 ## Live Demo
 View Live 🌐
-https://ankamahjohnson.github.io/github-user-profile/
+https://ankamahjohnson.github.io/GitHub-user-profile/
 
 
 ## Features
